@@ -5,7 +5,7 @@
 ## Chạy dự án 
 **Bước 1:** Clone về máy
 ```bash
-git clone <repo-url>
+git clone https://github.com/KhoaTruong2108/DU_AN_A.git
 
 ```
 
