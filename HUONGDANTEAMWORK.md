@@ -13,7 +13,7 @@ git clone <repo-url>
 
 1. **Tạo branch riêng** để làm
    ```bash
-   git checkout -b ten-branch-cua-ban
+   git checkout -b <ten-branch-cua-ban>
    ```
 
 2. Làm xong → commit
@@ -24,7 +24,7 @@ git clone <repo-url>
 
 3. Push lên branch của mình
    ```bash
-   git push origin ten-branch-cua-ban
+   git push origin <ten-branch-cua-ban>
    ```
 
 4. **KHÔNG push trực tiếp lên main** - Tạo Pull Request để review
