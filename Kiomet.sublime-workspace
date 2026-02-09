@@ -1,0 +1,665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"second"
+			],
+			[
+				"cpp",
+				"cpp1\ttest"
+			],
+			[
+				"I",
+				"INT_MAX"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"dat",
+				"date_of_birth"
+			],
+			[
+				"st",
+				"studentID"
+			],
+			[
+				"bi",
+				"bisect"
+			],
+			[
+				"b",
+				"bisect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Package Control Messages\n========================\n\n\nGitGutter\n---------\n\n  Thanks for installing Git Gutter!\n",
+			"settings":
+			{
+				"buffer_size": 109,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"package_control_message",
+					{
+						"message": "\n\nGitGutter\n---------\n\n  Thanks for installing Git Gutter!\n"
+					},
+					"AQAAAAAAAAAAAAAAbQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 4229,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/PHP/PHP.sublime-build",
+					""
+				],
+				[
+					"Packages/PHP/PHP.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/PHP/PHP.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 149.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/hoang/OneDrive/Documents/03_Project/DU_AN_A",
+		"/C/Users/hoang/OneDrive/Documents/03_Project/DU_AN_A/data",
+		"/C/Users/hoang/OneDrive/Documents/03_Project/DU_AN_A/data/levels"
+	],
+	"file_history":
+	[
+		"/C/Users/hoang/OneDrive/Documents/03_Project/DU_AN_A/.gitignore",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/output.out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/trau.out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/input.inp",
+		"/C/Users/hoang/OneDrive/Documents/03_Project/DU_AN_A/README.md",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/nhap.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/nhap.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/code.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/file.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/snt.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/Đề thi/NGUYENTO.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/Đề thi/DRONE.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/Đề thi/HOITRAI.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/Đề thi/SOMM.cpp",
+		"/C/Users/hoang/OneDrive/Desktop/25260299/LATIEN.cpp",
+		"/C/Users/hoang/OneDrive/Desktop/25260299/MAHOA.cpp",
+		"/C/Users/hoang/OneDrive/Desktop/25260299/VATSUA.cpp",
+		"/C/Users/hoang/OneDrive/Desktop/25260299/COMBO.cpp",
+		"/C/Users/hoang/AppData/Roaming/Sublime Text/Packages/User/cpp.sublime-snippet",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/kardane_2d.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/file.c",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/nhap.c",
+		"/C/Users/hoang/OneDrive/Documents/01_Đại học/04_Cơ sở lập trình/LAB7/pointer_01.c",
+		"/C/Users/hoang/OneDrive/Documents/01_Đại học/04_Cơ sở lập trình/LAB7/pointer_02.c",
+		"/C/Users/hoang/AppData/Roaming/Sublime Text/Packages/User/CP.sublime-build",
+		"/C/Users/hoang/AppData/Roaming/Sublime Text/Packages/User/test.sublime-snippet",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/sinhtest.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/tknp.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/sinhtest.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_Archive/input.inp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/TONG HOP DE THI HSG/DE 12 - FREE CONTEST/CODE/CODE/h9ndbd.pas",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/Book1.xlsx",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/OLP_SV_DuongDi.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/Contest/281125 - Contest 1/CONTESTANTS/Ha Doan/Bai3.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/Contest/281125 - Contest 1/CONTESTANTS/Ha Doan/Bai2.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/file.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/Contest/281125 - Contest 1/CONTESTANTS/Ha Doan/TTL.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/Contest/16-17_QuangNam12/TEST/money/test1/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/Contest/16-17_QuangNam12/CONTESTANTS/HOANG/MONEY.cpp",
+		"/C/Users/hoang/OneDrive/Documents/03_Project/Pygame/test.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/Contest/16-17_QuangNam12/TEST/money/test1/money.INP",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_Test/Contest/281125 - Contest 1/CONTESTANTS/Thu/Bai2.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/permute/test2/permute.out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/TTL/Test7/TTL.inp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/TTL/Test7/TTL.out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/CONTESTANTS/Duong/TTL.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/CONTESTANTS/hmd/TTL.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/CONTESTANTS/TEST/Permute.pas",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/CODE/permute/Permute.pas",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/permute/test2/permute.inp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/permute/test1/permute.inp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/CONTESTANTS/Hoang/Bai2.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/money/test1/money.INP",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/money/test1/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test0/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test0/money.INP",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/CONTESTANTS/HOANG/MONEY.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test9/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test8/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test7/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test6/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test5/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test4/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test3/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test2/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/281125 - Contest 1/Dethi/Bai2/test1/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/money/test0/money.Out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/money/test0/money.INP",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/CONTESTANTS/HOANG/ANHCA.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/CONTESTANTS/HOANG/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/CONTESTANTS/truong/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/CONTESTANTS/Quân/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/anhca/test4/anhca.inp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/anhca/test7/anhca.out",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/16-17_QuangNam12/TEST/anhca/test7/anhca.inp",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/16-17_QuangNam12/CONTESTANTS/HOANG/ANHCA.INP",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/16-17_QuangNam12/CONTESTANTS/HOANG/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/16-17_QuangNam12/CONTESTANTS/HOANG/ANHCA.OUT",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/16-17_QuangNam12/CONTESTANTS/Quân/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/16-17_QuangNam12/CONTESTANTS/hmd/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/16 - 17_QuangNam12/CONTESTANTS/HOANG/ANHCA.INP",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/16 - 17_QuangNam12/CONTESTANTS/HOANG/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/HOANG/ANHCA.INP",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/HOANG/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/HOANG/ANHCA.OUT",
+		"/C/Users/hoang/OneDrive/Desktop/CONTESTANTS/HOANG/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Desktop/CONTESTANTS/Quân/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/HOANG/ANHCA.cpp",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/HOANG/output.out",
+		"/C/Users/hoang/OneDrive/Desktop/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/HOANG/input.inp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/HOANG/ANHCA.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/01_Coding/code.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/hmd/ANHCA.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/DE 31 - HSG12 QUANG NAM 2016-2017/CONTESTANTS/hmd/MONEY.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/DE 1 - HSG9 BINH PHUOC 2019-2020/BAILAM/HAVIETHOANG/BOSOI.cpp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/04_CP/Contest1/BAILAM/HAVIETHOANG/bosoi.cpp",
+		"/C/Users/hoang/AppData/Roaming/Sublime Text/Packages/User/C.sublime-snippet",
+		"/C/XAMPP/htdocs/probjp/profile.php",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/03_Python/nhap.py",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_C++/template.inp",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/02_C++/sinhtest.cpp",
+		"/C/XAMPP/htdocs/probjp/infomation.php",
+		"/C/Users/hoang/OneDrive/Documents/02_Code/03_Python/clock.py",
+		"/C/Users/hoang/OneDrive/Code/02_C++/input.inp",
+		"/C/Users/hoang/OneDrive/Code/02_C++/trau.out",
+		"/C/Users/hoang/OneDrive/Code/02_C++/output.out",
+		"/C/Users/hoang/OneDrive/Code/02_C++/code.cpp",
+		"/C/XAMPP/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/hoang/OneDrive/Documents/Đại học/Cơ sở lập trình/25280018_LAB5_Bai4.c",
+		"/C/Users/hoang/OneDrive/Documents/Đại học/Cơ sở lập trình/25280018_LAB5_Bai5.c",
+		"/C/Users/hoang/OneDrive/Documents/Đại học/Cơ sở lập trình/25280018_LAB5_Bai3.c",
+		"/C/Users/hoang/OneDrive/Documents/Đại học/Cơ sở lập trình/25280018_LAB5_Bai2.c",
+		"/C/Users/hoang/OneDrive/Documents/Đại học/Cơ sở lập trình/25280018_LAB5_Bai1.c",
+		"/C/Users/hoang/OneDrive/Code/03_Python/nhap.py",
+		"/C/Users/hoang/OneDrive/Code/02_C++/kien.cpp",
+		"/C/Users/hoang/OneDrive/Code/03_Python/code.py",
+		"/C/Users/hoang/OneDrive/Code/02_C++/nhap.cpp",
+		"/C/Users/hoang/OneDrive/Code/02_C++/file.cpp",
+		"/C/XAMPP/htdocs/probjp/ask_gemini.php",
+		"/C/XAMPP/htdocs/probjp/chatbot_page.php",
+		"/C/XAMPP/htdocs/probjp/ask_chatbot.php",
+		"/C/XAMPP/htdocs/probjp/homepage.php",
+		"/C/XAMPP/htdocs/probjp/materials.php",
+		"/C/XAMPP/htdocs/probjp/add_manual_event.php",
+		"/C/XAMPP/htdocs/probjp/get_all_courses.php",
+		"/C/XAMPP/htdocs/probjp/find_free_time.php",
+		"/C/XAMPP/htdocs/probjp/db_config.php",
+		"/C/XAMPP/htdocs/info.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_indent": false,
+							"default_dir": "C:\\Users\\hoang\\OneDrive\\Documents\\03_Project\\DU_AN_A",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 234.0,
+		"history":
+		[
+			"4 11\n802\n743\n457\n539",
+			"4 11\n802\n743\n457\n539\n",
+			"4 11\n802\n743\n457\n539",
+			"4 11\n802\n743\n457\n539\n",
+			"4 11\n802\n743\n457\n539",
+			"4 11\n802\n743\n457\n539\n",
+			"3",
+			"33",
+			"3",
+			"4 4 3 7 8",
+			"5",
+			"asdf",
+			"df",
+			"as",
+			"fasd",
+			"asd",
+			"df",
+			"a",
+			"ds",
+			"asd",
+			"d",
+			"asdf",
+			"3 5 4 7",
+			"3 8 7 1",
+			"3 4 6 5",
+			"4 1 5 2",
+			"3 1 4 2",
+			"12",
+			"123",
+			"23",
+			"31",
+			"212",
+			"a1",
+			"dsf",
+			"6 7 5 3 9",
+			"10 11",
+			"6785648912",
+			"123",
+			"6785648912\n",
+			"509890\n2",
+			"7853\n3",
+			"8957432",
+			"6",
+			"12312",
+			"123",
+			"12",
+			"3",
+			"200",
+			"0",
+			"4",
+			"3",
+			"2",
+			"60",
+			"50",
+			"80",
+			"3",
+			"as",
+			"3\n1 2 2\n1 3",
+			"5\n4 3 2 5 1",
+			"1 2 3 2 1",
+			"5",
+			"4\n1 2 2 1",
+			"5 2\n1 2 3 4 5",
+			"4\n-2 -10 3 4",
+			"4 5 6 3 2",
+			"5",
+			"4 ",
+			"5",
+			"4\n4 3 2 1",
+			"9\n8 8 1 7 1 2 9 6 9",
+			"9\n8 8 1 7 1 2 9 6 9\n9\n8 8 1 7 1 2 9 6 9",
+			"n = int(input())\na = list(map(int, input().split()))\nans = 0\nfor i in range(n-1):\n\tfor j in range(i+1, n):\n\t\tif a[j] > a[i]:\n\t\t\tbreak\n\t\tif j == n - 1:\n\t\t\tans += 1\nprint(ans)",
+			"9\n8 8 1 7 1 2 9 6 9",
+			"5\n4 3 2 5 1",
+			"461\n-761 579 759 -93 -805 -489 -611 598 -876 -628 -206 963 385 221 -952 71 456 -236 -720 754 642 678 229 -137 -776 582 -892 -533 576 197 -501 195 346 -532 -765 -280 168 116 -989 -832 -972 -467 341 749 -977 -49 -71 -793 208 -8 422 25 177 -443 527 -349 -492 -291 282 49 -325 -853 267 13 381 -531 685 518 -737 -87 -962 949 -986 882 153 826 819 910 961 614 -230 491 -468 -725 -618 -557 -414 955 417 -380 -303 130 -692 238 824 -946 727 698 89 364 564 0 -576 452 -334 728 995 -774 559 620 -2 -548 520 -760 607 221 -444 502 700 315 -40 313 127 556 382 95 -698 -203 -437 -322 -828 983 555 799 -194 841 -394 500 692 610 -72 540 -445 555 -162 57 616 -648 -848 335 -737 637 -678 334 -636 -448 425 -143 163 -943 844 797 -979 -309 -695 20 -400 -249 862 103 148 -773 -104 782 -148 44 -25 -221 861 410 401 -909 301 -407 628 104 413 -393 692 -905 -915 103 -840 661 528 407 -732 791 576 324 70 -296 -301 765 -557 -261 -558 861 -265 366 -827 -287 391 -110 -109 80 -988 -921 -559 391 -19 -63 -112 -172 22 -993 227 87 35 802 -386 804 -758 578 682 -49 862 822 458 -173 942 -435 -658 854 -287 233 568 639 217 934 -535 -702 778 53 -847 182 -663 269 726 93 204 -118 322 338 588 610 296 4 325 594 611 -440 902 -277 -328 50 708 272 787 834 435 -668 -274 854 -445 -604 -982 476 -327 -283 970 -250 458 -800 -120 413 950 -63 122 -258 -472 465 511 -486 -303 166 -917 -584 -190 -341 -634 -557 352 -376 -905 -547 656 43 848 400 792 18 -64 518 -989 136 -618 -94 -987 -674 -980 696 586 -863 -310 838 843 -28 -836 682 243 934 784 -525 -495 -555 -666 -758 505 -307 342 424 -32 -252 363 981 -16 650 -736 627 -487 71 40 -149 -908 697 -395 -795 261 -711 105 605 658 810 148 -173 -910 45 -799 533 -441 -30 412 864 104 -325 -747 -391 1 -759 -625 -799 448 -978 -561 -800 128 -921 -72 -620 -39 662 832 128 -1000 -732 -576 561 159 -850 -289 385 -926 978 198 635 -759 948 245 -894 -8 464 -171 411 -294 966 -354 283 750 895 -292 618 -619 -427 978 -775 968 -318 -662 -205 -447 490 -455 -521 -492 175 -143 -740 256 -4 554 -575 -119 -436 716 -62 229 840 507 -690 -35 ",
+			"-761 579 -93 759 -805 -489 -611 598 -876 -628 -206 963 385 221 -952 71 456 -236 -720 754 642 678 -137 229 -776 582 -892 -533 576 197 -501 195 -532 346 -765 -280 168 116 -989 -832 -972 -467 341 749 -977 -49 -71 -793 208 -8 422 25 177 -443 527 -349 -492 -291 282 49 -325 -853 267 13 381 -531 685 518 -737 -87 -962 949 -986 882 153 826 819 910 -230 961 -468 614 -725 491 -618 -557 -414 955 417 -380 -303 130 -692 238 824 -946 727 698 0 89 -576 364 -334 564 -774 452 -2 728 -548 995 -760 559 -444 620 -40 520 -698 607 -203 221 -437 502 -322 700 -828 315 -194 313 -394 127 -72 556 -445 382 -162 95 -648 983 -848 555 -737 799 -678 841 -636 500 -448 692 -143 610 -943 540 -979 555 -309 57 -695 616 -400 335 -249 637 -773 334 -104 425 -148 163 -25 844 -221 797 -909 20 -407 862 -393 103 -905 148 -915 782 -840 44 -732 861 -296 410 -301 401 -557 301 -261 628 -558 104 -265 413 -827 692 -287 103 -110 661 -109 528 -988 407 -921 791 -559 576 -19 324 -63 70 -112 765 -172 861 -993 366 -386 391 -758 80 -49 391 -173 22 -435 227 -658 87 -287 35 -535 802 -702 804 -847 578 -663 682 -118 862 -440 822 -277 458 -328 942 -668 854 -274 233 -445 568 -604 639 -982 217 -327 934 -283 778 -250 53 -800 182 -120 269 -63 726 -258 93 -472 204 -486 322 -303 338 -917 588 -584 610 -190 296 -341 4 -634 325 -557 594 -376 611 -905 902 -547 50 -64 708 -989 272 -618 787 -94 834 -987 435 -674 854 -980 476 -863 970 -310 458 -28 413 -836 950 -525 122 -495 465 -555 511 -666 166 -758 352 -307 656 -32 43 -252 848 -16 400 -736 792 -487 18 -149 518 -908 136 -395 696 -795 586 -711 838 -173 843 -910 682 -799 243 -441 934 -30 784 -325 505 -747 342 -391 424 -759 363 -625 981 -799 650 -978 627 -561 71 -800 40 -921 697 -72 261 -620 105 -39 605 -1000 658 -732 810 -576 148 -850 45 -289 533 -926 412 -759 864 -894 104 -8 1 -171 448 -294 128 -354 662 -292 832 -619 128 -427 561 -775 159 -318 385 -662 978 -205 198 -447 635 -455 948 -521 245 -492 464 -143 411 -740 966 -4 283 -575 750 -119 895 -436 618 -62 978 -690 968 -35 490 175 256 554 716 229 840 507",
+			"461\n-761 579 759 -93 -805 -489 -611 598 -876 -628 -206 963 385 221 -952 71 456 -236 -720 754 642 678 229 -137 -776 582 -892 -533 576 197 -501 195 346 -532 -765 -280 168 116 -989 -832 -972 -467 341 749 -977 -49 -71 -793 208 -8 422 25 177 -443 527 -349 -492 -291 282 49 -325 -853 267 13 381 -531 685 518 -737 -87 -962 949 -986 882 153 826 819 910 961 614 -230 491 -468 -725 -618 -557 -414 955 417 -380 -303 130 -692 238 824 -946 727 698 89 364 564 0 -576 452 -334 728 995 -774 559 620 -2 -548 520 -760 607 221 -444 502 700 315 -40 313 127 556 382 95 -698 -203 -437 -322 -828 983 555 799 -194 841 -394 500 692 610 -72 540 -445 555 -162 57 616 -648 -848 335 -737 637 -678 334 -636 -448 425 -143 163 -943 844 797 -979 -309 -695 20 -400 -249 862 103 148 -773 -104 782 -148 44 -25 -221 861 410 401 -909 301 -407 628 104 413 -393 692 -905 -915 103 -840 661 528 407 -732 791 576 324 70 -296 -301 765 -557 -261 -558 861 -265 366 -827 -287 391 -110 -109 80 -988 -921 -559 391 -19 -63 -112 -172 22 -993 227 87 35 802 -386 804 -758 578 682 -49 862 822 458 -173 942 -435 -658 854 -287 233 568 639 217 934 -535 -702 778 53 -847 182 -663 269 726 93 204 -118 322 338 588 610 296 4 325 594 611 -440 902 -277 -328 50 708 272 787 834 435 -668 -274 854 -445 -604 -982 476 -327 -283 970 -250 458 -800 -120 413 950 -63 122 -258 -472 465 511 -486 -303 166 -917 -584 -190 -341 -634 -557 352 -376 -905 -547 656 43 848 400 792 18 -64 518 -989 136 -618 -94 -987 -674 -980 696 586 -863 -310 838 843 -28 -836 682 243 934 784 -525 -495 -555 -666 -758 505 -307 342 424 -32 -252 363 981 -16 650 -736 627 -487 71 40 -149 -908 697 -395 -795 261 -711 105 605 658 810 148 -173 -910 45 -799 533 -441 -30 412 864 104 -325 -747 -391 1 -759 -625 -799 448 -978 -561 -800 128 -921 -72 -620 -39 662 832 128 -1000 -732 -576 561 159 -850 -289 385 -926 978 198 635 -759 948 245 -894 -8 464 -171 411 -294 966 -354 283 750 895 -292 618 -619 -427 978 -775 968 -318 -662 -205 -447 490 -455 -521 -492 175 -143 -740 256 -4 554 -575 -119 -436 716 -62 229 840 507 -690 -35 ",
+			"1 1 -2 1 1",
+			"5",
+			"1 1 -2 1 1",
+			"5",
+			"-2 1 1 1 1",
+			"5",
+			"-2 1 1 1 1",
+			"5",
+			"5\n1 2 3 4 -2",
+			"3 1",
+			"5\n1 2 3 4 -2",
+			"5\n1 -3 2 -3 -2 ",
+			"5\n1 -3 -3 -3 -2 ",
+			"5\n-3 -3 -3 -2 1",
+			"5",
+			"10",
+			"Khoa hoc du lieu",
+			"2007",
+			"Hoang",
+			"Viet",
+			"Ha",
+			"25280018",
+			"25280018\nHa\nViet\nHoang\nKhoa hoc du lieu\n10",
+			"Hoa shdlfj asd",
+			"Khoa hoc du lieu",
+			"252800198",
+			"2007",
+			"Khoa",
+			"Hoang",
+			"Viet",
+			"Ha ",
+			"25280018",
+			"Khoa hoc du lieu",
+			"25280018 Ha Viet Hoang 2007 ",
+			"ATTCGGGA",
+			"ATTCGGGA'",
+			"ATTCGGGA",
+			"6\n2 3 1 5 6",
+			"1",
+			"2",
+			"5\n2 3 1 5",
+			"3",
+			"n = int(input())\na = list(map(int, input().split()))\nb = []\nindex = 0\nfor i in range(n):\n\tif a[i] > 0:\n\t\tb.append(a[i])\n\telse:\n\t\tb.insert(index, a[i])\n\t\tindex += 2\nprint(b)",
+			"6\n1 5 -3 6 2 -5",
+			"12",
+			"8",
+			"asd",
+			"8",
+			"9",
+			"pip install pygame",
+			"6\n1 5 -3 6 2 -5"
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/CP.sublime-build",
+	"project": "Kiomet.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\hoang\\OneDrive\\Documents\\02_Code\\01_Coding\\CP.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
