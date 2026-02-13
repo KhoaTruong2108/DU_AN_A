@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="IndieGodot2D"
-run/main_scene="res://scenes/main/Main.tscn"
+run/main_scene="uid://dih5ibiaeg8vd"
 config/features=PackedStringArray("4.5")
 
 [autoload]
