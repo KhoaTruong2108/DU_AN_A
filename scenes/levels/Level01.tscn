@@ -1,7 +1,0 @@
-[gd_scene format=3]
-
-[node name="Level01" type="Node2D"]
-
-[node name="GroundHint" type="Label" parent="."]
-text = "Level01 (placeholder) — add TileMap/props here"
-position = Vector2(24, 24)
